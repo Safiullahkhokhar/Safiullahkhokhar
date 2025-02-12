@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safiullah</h1>
-<h3 align="center"> Data Analyst and a passionate Data Science and Machine Learning from Pakistan</h3>
+<h3 align="center"> Data Scientist, Data Analyst and involved on Machine Learning and Artificial Intelligence from Pakistan</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR0eWozem9kbTFhdDZkenVlNGJjZTNjeTl0bWhhdzd3ZnM0Mnp4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" >
 - 🌱 I’m currently learning **Python language**
