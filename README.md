@@ -2,7 +2,7 @@
 <h3 align="center"> Data Scientist, Data Analyst and involved on Machine Learning and Artificial Intelligence from Pakistan</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR0eWozem9kbTFhdDZkenVlNGJjZTNjeTl0bWhhdzd3ZnM0Mnp4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif" >
-- 🌱 I’m currently learning **Python language**
+- 🌱 I’m currently pursing **BS-Computer Science**
 
 - 💬 Ask me about **Currently I am a Final year student at SZABIST Larkana Campus**
 
