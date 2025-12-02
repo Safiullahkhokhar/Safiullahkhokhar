@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR0eWozem9kbTFhdDZkenVlNGJjZTNjeTl0bWhhdzd3ZnM0Mnp4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif">
 
-- 🎓 I have **completed my Bachelor’s in Computer Science (BSCS) from SZABIST Larkana**, with a strong foundation in programming, data analysis, and AI/ML concepts.  
+- 🎓 I have **completed my Bachelor’s in Computer Science (BSCS) from SZABIST**, with a strong foundation in programming, data analysis, and AI/ML concepts.  
 - 💡 I am passionate about **turning raw data into meaningful insights** that can make a real impact.  
 - 💬 I enjoy **solving practical problems, building machine learning models, and creating data-driven solutions** that help businesses and communities make better decisions.  
 - 📫 You can reach me at **[safiullahkhokhat7@gmail.com](mailto:safiullahkhokhat7@gmail.com)**  
@@ -35,9 +35,6 @@
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
   </a>
 </p>
 
