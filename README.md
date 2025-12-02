@@ -3,11 +3,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR0eWozem9kbTFhdDZkenVlNGJjZTNjeTl0bWhhdzd3ZnM0Mnp4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif">
 
-- 🌱 I’m currently **pursuing my Bachelor’s in Computer Science** at SZABIST Larkana.  
-- 💬 I love **turning complex data into meaningful insights and actionable solutions**.  
-- 📫 Reach me at **[safiullahkhokhat7@gmail.com](mailto:safiullahkhokhat7@gmail.com)**  
-- ⚡ Fun fact: I focus on **leveraging AI & Data Science to solve real-world problems**.  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/safiullah-khokhar/" target="_blank">
