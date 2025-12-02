@@ -3,6 +3,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR0eWozem9kbTFhdDZkenVlNGJjZTNjeTl0bWhhdzd3ZnM0Mnp4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uB86ZyWQsnFSGYe2sA/giphy.gif">
 
+- 🎓 I have **completed my Bachelor’s in Computer Science (BSCS) from SZABIST Larkana**, with a strong foundation in programming, data analysis, and AI/ML concepts.  
+- 💡 I am passionate about **turning raw data into meaningful insights** that can make a real impact.  
+- 💬 I enjoy **solving practical problems, building machine learning models, and creating data-driven solutions** that help businesses and communities make better decisions.  
+- 📫 You can reach me at **[safiullahkhokhat7@gmail.com](mailto:safiullahkhokhat7@gmail.com)**  
+- ⚡ Fun fact: I love **learning new tools and technologies to continuously improve my skills**.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/safiullah-khokhar/" target="_blank">
@@ -41,7 +47,7 @@ I’m a Data Scientist and AI Engineer passionate about turning complex data int
 
 During my internship at Mentorness, I developed models for market price prediction and disease prediction, gaining valuable experience in data cleaning, feature engineering, and model evaluation. These projects taught me how to transform raw data into actionable results that can help businesses and communities make better decisions.
 
-I recently completed my Bachelor’s in Computer Science from SZABIST, and I continue to explore ways to apply AI and analytics in real-world scenarios. I enjoy building projects that combine data analysis, machine learning, and visualization to create meaningful impact.
+Now, as a BSCS graduate, I continue to explore opportunities where I can apply AI and analytics to solve real-world challenges. I enjoy building projects that combine data analysis, machine learning, and visualization to create a meaningful impact.
 
-I’m motivated by challenges that allow me to learn, grow, and use data to drive positive outcomes, whether it’s improving business processes, predicting trends, or automating tasks.
+I believe in learning continuously, staying curious, and using my skills to contribute positively to any team or project I am part of.
 </p>
